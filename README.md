@@ -9,4 +9,8 @@ To use this as a Chrome extension:
 
 ## Changes
 
-- Add a button to the wiki page for daily FE merges
+- Add a button to the wiki page for daily FE merges:
+
+![](images/merge1.png)
+
+![](images/merge2.png)
