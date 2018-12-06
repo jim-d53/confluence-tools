@@ -1,0 +1,19 @@
+{
+  "name": "confluence-tools",
+  "description": "A collection of tools to make using Confluence easier",
+  "main": "extensinindex.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jim-d53/confluence-tools.git"
+  },
+  "scripts": {
+    "update-manifest": "node scripts/addLastBuildDateInManifest.js"
+  },
+  "keywords": [
+    "confluence"
+  ],
+  "author": "jim.yang@degree53.com",
+  "dependencies": {
+    "json-update": "^3.0.0"
+  }
+}
